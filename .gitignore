@@ -1,0 +1,28 @@
+# ==========================
+# Operating System Files
+# ==========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================
+# Visual Studio Code
+# ==========================
+.vscode/
+
+# ==========================
+# Power BI Temporary Files
+# ==========================
+*.pbix.tmp
+*.pbit.tmp
+
+# ==========================
+# Log Files
+# ==========================
+*.log
+
+# ==========================
+# Python Cache (safe to ignore even if unused)
+# ==========================
+__pycache__/
+*.pyc
